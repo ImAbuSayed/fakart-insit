@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/fakart-insit/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Fakart İnsit](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
