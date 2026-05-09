@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fakart İnsit
+
+This log tracks the cryptographic history and versioning for the song **Fakart İnsit** (fakart-insit).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:10:58.665252 | `v1` | `18d800248e06bb17a83ccc73dcc7ac84faef0de449487d9fabbd0c8449cc6989` | `a73de34836eb40a28afa224820d18757bb32216f84e63a20c118429ae8682208` | `2026-05-09_fakart-insit-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
